@@ -1,20 +1,20 @@
 # prgs.HTML
 My HTML learning documents journey - practice exercises , code examples , and beginner-friendly web development projects.
 
-## **📚 What I'm Learning**
+## ** What I'm Learning**
 - HTML Structure
 - Headings and Paragraphs
 - Links and Images
 - HTML Forms
 - Semantic HTML Elements
 
-##  **🚀 My Projects**
+##  ** My Projects**
 
 - 🌐 My First HTML Page
 - 💻 HTML Practice Programs
 - 🎨 Beginner Web Pages
 
 
-## **🎯My Journey**
+## **My Journey**
 
  Learn →  Practice →  Build →  Improve
