@@ -11,9 +11,9 @@ My HTML learning documents journey - practice exercises , code examples , and be
 
 ##  **My Projects**
 
-- 🌐 My First HTML Page
-- 💻 HTML Practice Programs
-- 🎨 Beginner Web Pages
+-  My First HTML Page
+-  HTML Practice Programs
+-  Beginner Web Pages
 
 
 ## **My Journey**
